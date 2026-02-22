@@ -59,7 +59,7 @@ O aplicativo apresenta um design moderno e minimalista:
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seu-usuario/cartao-perfil.git
-   cd cartao-perfil
+   cd cartaoPerfil
    ```
 
 2. **Instale as dependências**
